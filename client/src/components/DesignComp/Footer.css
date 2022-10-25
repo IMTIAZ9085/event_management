@@ -1,0 +1,44 @@
+.social .logo-style{
+      font-size: 2rem;
+      color: rgb(69, 45, 177);
+      width: 4rem;
+      height: 4rem;
+      border-radius: 50%;
+      /* background-color: rgba(77, 111, 204, 0.322); */
+      place-items: center;
+      display: grid;
+      align-items: center;
+      margin: 1rem auto;
+}
+.social a{
+      text-decoration: none;
+}
+      
+      .social .logo-style:hover{
+            background: transparent;
+      }
+      
+      footer{
+            padding:0.5rem 0;
+            background-color:#182334;
+            color: #fff;
+            height:24rem;
+            /* font-size: 5rem; */
+      }
+      
+      footer h2{
+            color:#fff;
+            margin-top: 2rem;
+      
+      }
+      footer li{
+            list-style: none;
+            font-size:1.3rem;
+            font-weight:lighter;
+            cursor: pointer;
+            margin: 1rem 0;
+      }
+      
+      footer ul{
+            margin-left: -1.6rem;
+      }
